@@ -1,0 +1,45 @@
+juan jose reales - control inteligente a industria petrolera
+preguntarle a camilo - que procesos se puede hacer donde trabaja
+fpi 11
+
+trabajos en clase 15%
+trabajo de investigacion 45%
+puntualidad en la clase 40%
+
+Tres encuentros de 15 horas
+
+trabajo de investigacion.
+
+Entegable1_DiegoRojas_NombreEntregable
+- formato de la universidad
+- formato oficio
+- portada en parte superio eziquierda de la primera hoja. 
+- desarrollo de codigo y resultados
+- Analisis de resultados, conclusion del trabajo
+
+Trabajo final (.rar)
+PDF
+codigos
+archvios de simulink python
+una carpeta por punto, codigos material de aneos
+
+ColCacis 
+
+
+
+Imagen articulo
+Fig 1 nombre de la imagen
+
+Imagen trabajo normal
+Trabajo en la parte de ariba
+
+
+Pseudo inversa 
+pra calcular de directa ha inversa en robotica
+La matriz pseudo-inversa es una generalización de la matriz inversa para matrices que no son cuadradas. Es útil en problemas de mínimos cuadrados, donde quieres encontrar la solución que minimiza la norma del vector de error.
+
+
+- un sistema deterministico sus contantes se mantienen
+- Estocastico incluye probabilidad
+
+Tregable 
