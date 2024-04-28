@@ -43,3 +43,7 @@ La matriz pseudo-inversa es una generalización de la matriz inversa para matric
 - Estocastico incluye probabilidad
 
 Tregable 
+
+
+que es un sistema varaible en el tiempo
+ademas este no se puede usar la funcion de transferenciasg

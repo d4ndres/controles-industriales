@@ -150,5 +150,42 @@ f = ilaplace(F);
 simpleF = simplify(f);
 pretty(simpleF);
 
+%% Esto no se entrega, esto es algo llamado complejo conjugado. raices repetidas y r... 
+% cuando los ceros estan en el eje imaginario se define como "no es de face
+% minima"
+% entre mas lejos esten los polos de del eje natural mas grande es el
+% aoveshoot
+
+num = [1 0 5];
+den = [1 2 3 1];
+sys = tf (num,den);
+rlocus(sys);
+roots(den);
+step(sys);
+
+%% r residuo, k gananacia
+num = [4 4 4];
+den = [1 3 2 0 0];
+[r,p,k] = residue(num,den);
+sys = tf(num,den);
+step(sys);
+r
+
+%%
+
+
+num = [0.95 0 2];
+den = [0.817 2.128 5.045 4.48 3];
+sys = tf (num,den);
+rlocus(sys);
+roots(den);
+grid on
+
+%% espacio de estados
+num = [0.95 0 2];
+den = [0.817 2.128 5.045 4.48 3];
+[A,B,C,D] = tf2ss(num,den);
+sys = tf(num,den);
+%% a la hora de trabajar con espacio de estados conocer muy bien el sistema para definir sus condiciones iniciales
 
 
